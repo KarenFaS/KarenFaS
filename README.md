@@ -18,11 +18,12 @@ Or you can contact me by **Mail**: [karenfajardo.sa@gmail.com](mailto:karenfajar
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/PNG/Power-BI.png" width="36" height="36" alt="Power BI" /></a>
 </p>
 
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenFaS&show_icons=true&theme=catppuccin_latte&rank_icon=percentile&exclude_repo=KarenFaS)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenFaS&layout=compact&theme=catppuccin_latte)
+
 
