@@ -24,4 +24,5 @@ Or you can contact me by **Mail**: [karenfajardo.sa@gmail.com](mailto:karenfajar
 ### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenFaS&show_icons=true&theme=catppuccin_latte&rank_icon=percentile&exclude_repo=KarenFaS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarenFaS&layout=compact&theme=catppuccin_latte)
 
