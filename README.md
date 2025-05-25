@@ -1,7 +1,7 @@
 
 ![Header](./header_git.png)
 
-I am an industrial engineer with experience in financial, administrative, and operational sectors.  I have always understood the importance of data in the decision-making process and the visualization of improvement opportunities. This understanding drives my commitment to immerse myself in data science, enhancing my ability to transform data into valuable business insights.
+I am an industrial engineer with experience in financial, administrative, and operational departments.  I have always understood the importance of data in the decision-making process and the visualization of improvement opportunities. This understanding drives my commitment to immerse myself in data science, enhancing my ability to transform data into valuable business insights.
 
 If you want to know more about my professional profile, visit my linkedin
 
